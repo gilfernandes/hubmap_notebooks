@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.pth
+
+.Python
+albument_experiment/
+data/
+ds_cache/
+image_cache/
+logs/
+models/
+REPORT_PATH/
+reports/
+.ipynb_checkpoints/
